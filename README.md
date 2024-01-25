@@ -9,6 +9,6 @@
   - LinkedIn: Vivek Dhingra
   - Discord: relectrik
   - Email: viv@dluvs.com
-  - [Personal Website](relectrik.github.io)
+  - [Personal Website](https://relectrik.github.io)
 - 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: i have 700 hours on aim trainers.
