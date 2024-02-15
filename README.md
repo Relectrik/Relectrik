@@ -10,5 +10,6 @@
   - Discord: relectrik
   - Email: viv@dluvs.com
   - [Personal Website](https://relectrik.github.io)
+  - [Resume](https://drive.google.com/file/d/1HE8s5B3vmrUI6s-0uu6LWuPdeRSmx5zL/view)
 - 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: i have 700 hours on aim trainers.
