@@ -14,4 +14,4 @@
 - 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: i have 700 hours on aim trainers.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Relectrik&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Relectrik&hide=html,css&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
