@@ -14,4 +14,11 @@
 - 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: i have 700 hours on aim trainers.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Relectrik&hide=html,css&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+## &#x1f4c8; GitHub Stats
+
+<a href="https://github.com/asrouji/asrouji">
+  <img align="center" src="https://github-readme-stats-tau-red-95.vercel.app/api/top-langs/?username=Relectrik&hide=css,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3&size_weight=0.8&count_weight=0.2" />
+</a>
+<a href="https://github.com/Relectrik">
+  <img align="center" src="https://github-readme-stats-tau-red-95.vercel.app/api?username=Relectrik&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&custom_title=viv's%20GitHub%20Stats" alt="viv's GitHub Stats" />
+</a>
