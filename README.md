@@ -1,18 +1,12 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&size=30&duration=3000&pause=300&color=18FF00&width=435&lines=Hey!+My+name+is+viv.+;Nice+to+meet+you!)](https://git.io/typing-svg)
 
-- 🔭 i’m currently working on a role predictor in valorant. after just having finished an automated gym routine utilizing propositional logic to track and aggregate soreness levels, i'm trying to expand my horizons in machine learning by having a dense neural network utilizing convolutions to predict the role of an agent given its ability icons.
-- 🌱 in school, I’m currently learning how to create a programming language utilizing ohm. Also learning about reinforcement learning & causal inference, as well as undertaking my own projects to expand my horizons in data science and ai. 
-- 👯 i’m looking to collaborate on anything that peaks my interest. i have a particular interest in automating menial tasks utilizing ai and data.
-- 🤔 i’m looking for advice on improving my current skills, broadening my approach and trying to land a good swe internship.
-- 💬 Ask me about my vision for my w.i.p. smart calendar project.
-- 📫 How to reach me:
-  - LinkedIn: Vivek Dhingra
-  - Discord: relectrik
-  - Email: viv@dluvs.com
-  - [Personal Website](https://relectrik.github.io)
-  - [Resume](https://drive.google.com/file/d/1HE8s5B3vmrUI6s-0uu6LWuPdeRSmx5zL/view)
-- 😄 Pronouns: He/Him/His
-- ⚡ Fun fact: i have 700 hours on aim trainers.
+My passions in Computer Science lie within AI, specifically trying to leverage causal reasoning and reinforcement learning to build the next generation of AI capable of counterfactual logic. My research is based on trying to achieve more realistic simulations in multi-agent hierarchical environments by leveraging causal-model based learning, which you can read about [here](https://newsroom.lmu.edu/community/seaver-summer-research-vivek-dhingra-25/).
+
+In my spare time, I like automating menial tasks, because I truly believe that humans are meant for greater, more creative imaginative tasks. This is the inspiration for my personal projects, including the Gym Routine Automator, which aggregates your soreness levels as of late, and provides a comprehensive workout plan for you on the day.
+
+## &#x1f4c8; Technologies
+
+![Static Badge](https://img.shields.io/badge/scikit-learn?style=flat&logo=%23F7931E)
 
 ## &#x1f4c8; GitHub Stats
 
