@@ -1,4 +1,4 @@
-### yoo 👋 i'm viv
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&size=30&pause=1000&color=18FF00&width=435&lines=Hey!+My+name+is+viv.+;Nice+to+meet+you...)](https://git.io/typing-svg)
 
 - 🔭 i’m currently working on a role predictor in valorant. after just having finished an automated gym routine utilizing propositional logic to track and aggregate soreness levels, i'm trying to expand my horizons in machine learning by having a dense neural network utilizing convolutions to predict the role of an agent given its ability icons.
 - 🌱 in school, I’m currently learning how to create a programming language utilizing ohm. Also learning about reinforcement learning & causal inference, as well as undertaking my own projects to expand my horizons in data science and ai. 
