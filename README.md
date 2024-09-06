@@ -1,10 +1,14 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&size=30&duration=3000&pause=300&color=18FF00&width=435&lines=Hey!+My+name+is+viv.+;Nice+to+meet+you!)](https://git.io/typing-svg)
 
+## :walking_man: A little about me...
+
 My passions in Computer Science lie within AI, specifically trying to leverage causal reasoning and reinforcement learning to build the next generation of AI capable of counterfactual logic. My research is based on trying to achieve more realistic simulations in multi-agent hierarchical environments by leveraging causal-model based learning, which you can read about [here](https://newsroom.lmu.edu/community/seaver-summer-research-vivek-dhingra-25/).
 
 In my spare time, I like automating menial tasks, because I truly believe that humans are meant for greater, more creative imaginative tasks. This is the inspiration for my personal projects, including the Gym Routine Automator, which aggregates your soreness levels as of late, and provides a comprehensive workout plan for you on the day.
 
 ## :dvd: Technologies
+
+scikit-learn, pandas, numpy, vercel, supabase, pytorch, tensorflow, pgmpy
 
 ## &#x1f4c8; GitHub Stats
 
