@@ -12,7 +12,7 @@ scikit-learn, pandas, numpy, vercel, supabase, pytorch, tensorflow, pgmpy
 
 ## &#x1f4c8; GitHub Stats
 
-<a href="https://github.com/asrouji/asrouji">
+<a href="https://github.com/Relectrik">
   <img align="center" src="https://github-readme-stats-tau-red-95.vercel.app/api/top-langs/?username=Relectrik&hide=css,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3&size_weight=0.8&count_weight=0.2" />
 </a>
 <a href="https://github.com/Relectrik">
