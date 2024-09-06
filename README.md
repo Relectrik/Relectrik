@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&size=30&pause=1000&color=18FF00&width=435&lines=Hey!+My+name+is+viv.+;Nice+to+meet+you...)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&size=30&duration=3000&pause=300&color=18FF00&width=435&lines=Hey!+My+name+is+viv.+;Nice+to+meet+you!)](https://git.io/typing-svg)
 
 - 🔭 i’m currently working on a role predictor in valorant. after just having finished an automated gym routine utilizing propositional logic to track and aggregate soreness levels, i'm trying to expand my horizons in machine learning by having a dense neural network utilizing convolutions to predict the role of an agent given its ability icons.
 - 🌱 in school, I’m currently learning how to create a programming language utilizing ohm. Also learning about reinforcement learning & causal inference, as well as undertaking my own projects to expand my horizons in data science and ai. 
@@ -13,3 +13,5 @@
   - [Resume](https://drive.google.com/file/d/1HE8s5B3vmrUI6s-0uu6LWuPdeRSmx5zL/view)
 - 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: i have 700 hours on aim trainers.
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Relectrik&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
