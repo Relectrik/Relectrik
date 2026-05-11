@@ -1,1 +1,1 @@
-## tinkerer who works with cognitive systems · weekly experiments · [relectrik.com](relectrik.com)
+## i just be doing shit · [relectrik.com](relectrik.com)
